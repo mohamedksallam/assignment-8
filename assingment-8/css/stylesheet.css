@@ -1,0 +1,36 @@
+body{
+font-family: segoe ui light;
+}
+
+.container .row1 .head-quote{
+    font-size: 60px;
+}
+
+.container .row1 .above-btn{
+font-size: 25px;
+font-weight: bold;
+}
+
+.container .row1 .button{
+    width: auto;
+    margin: auto;
+    background-color: white;
+    font-size: 20px;
+    font-weight: 800;
+    padding: 30px 60px;
+    border: solid 2px darkblue;
+    transition-duration: 0.3s;
+}
+
+.container .row1 .button:hover{
+    background-color:#F4F1EA ;
+}
+
+.quote{
+    font-size: 30px;
+}
+
+.sayer{
+    font-size: 30px;
+
+}
